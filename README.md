@@ -15,12 +15,6 @@ Lastly, I had to create the environment, combining small graphics to create a la
  
 I am into this project with no experience in Unity or any game design. First, I learned about the Unity platform and all of the different windows which are necessary for game development. I learned how to create game objects, backgrounds, and animations based off of sprite pages and background photos. Next, I learned the basic syntax for C# including important principles for game design such as class inheritances which are used for character creation. Using this new knowledge of C#, I created scripts which governed the play of my game and learned how to access the attributes of the game objects within these scripts in order to handle collisions or change movements. I created prefabs for ghosts and players such that they could easily be reused and spawned as desired. Finally, I learned how to change the physics of the game, such as changing the gravity, mass, or dynamics for a specific character.
  
-## What went well/ what did not
- 
-I was pleased with the final results in terms of the player movements and their interaction with the environment. The characters react quickly and accurately to keypresses and the movements are as smooth as hoped despite simple animation. I felt that I quickly got the hang of C# and how to use it to create game scripts. <br>
- 
-The greatest challenge/frustration was working with the Unity platform to create the environment. When I was making the background, I had to copy and paste a single photo many times and try to perfectly line them up which proved to be very challenging despite a keyboard shortcut which was supposed to help.
- 
 ## Authors
  
 Thomas Rogers
