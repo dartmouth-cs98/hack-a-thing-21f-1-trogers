@@ -43,12 +43,13 @@ public class Player : MonoBehaviour
     {
         PlayerMoveKeyboard();
         AnimatePlayer();
-    }
-
-    private void FixedUpdate()
-    {
         PlayerJump();
     }
+
+    // private void FixedUpdate()
+    // {
+    //     PlayerJump();
+    // }
 
     void PlayerMoveKeyboard() {
 
